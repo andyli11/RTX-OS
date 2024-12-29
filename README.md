@@ -16,7 +16,7 @@ This project implements a **Real-Time Executive (RTX)** Operating System on the 
 
 ## Project Overview
 
-The RTX project is developed as part of the **ECE350 Lab** course at the University of Waterloo. It provides a basic multitasking environment that supports:
+The RTX project provides a basic multitasking environment that supports:
 - Dynamic memory management.
 - Task management with strict-priority scheduling.
 - Inter-task communication using mailboxes.
